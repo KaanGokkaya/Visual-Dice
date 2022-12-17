@@ -11,6 +11,7 @@
         Background="#FF0E1F25"
         ResizeMode="CanMinimize"
         WindowStartupLocation="CenterScreen"
+        Icon="Dices/LogoTransparent.ico"
         >
     <Window.Resources>
         <Style x:Key="FocusVisual">

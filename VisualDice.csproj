@@ -14,6 +14,8 @@
     <None Remove="Dices\dice_six.png" />
     <None Remove="Dices\dice_three.png" />
     <None Remove="Dices\dice_two.png" />
+    <None Remove="Dices\logo.png" />
+    <None Remove="Dices\LogoTransparent.ico" />
   </ItemGroup>
 
   <ItemGroup>
@@ -23,6 +25,8 @@
     <Resource Include="Dices\dice_six.png" />
     <Resource Include="Dices\dice_three.png" />
     <Resource Include="Dices\dice_two.png" />
+    <Resource Include="Dices\logo.png" />
+    <Resource Include="Dices\LogoTransparent.ico" />
   </ItemGroup>
 
 </Project>
